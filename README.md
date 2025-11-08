@@ -25,8 +25,23 @@ This project helps users understand how secure their passwords are and prevents 
    - SHA-256 hash of the password
    - Entropy value (in bits)
    - Strength rating
+## 🚀 How to Run
 
----
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/password-strength-tool.git
+   Open the folder in PyCharm or VS Code.
+
+   Run the Python file:
+   python3 pass.py
+   Enter any password and check the strength
+  
+     
+🧑‍💻 Author
+
+Radha Vidhale
+B.Voc Cyber Security Student | Aspiring SOC Analyst
+📍 Nagpur, India
 
 
 
